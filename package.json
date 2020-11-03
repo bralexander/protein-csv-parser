@@ -1,0 +1,16 @@
+{
+  "name": "csv-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha spec"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csvtojson": "^2.0.10",
+    "mocha": "^8.2.0"
+  }
+}
